@@ -1,6 +1,6 @@
 <?php
 
-if($_GET['pass'] === "gqvY6d6ZD0yZX1qYxKYIoiasdf234!"){
+if($_GET['pass'] === "uniquePassword"){
 	echo 'Access Granted';
 }
 else{
